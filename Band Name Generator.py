@@ -1,7 +1,3 @@
-
-
-# todo: Improved version
-
 def generate_band_name():
     print("Welcome to the Band Name Generator")
 
